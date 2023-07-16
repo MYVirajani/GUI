@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mgl0jsz64IGGJi+D533sYCTvxbv+0yBiMpjcCEzec0dZKzAOmNGjRX3ppa33yp7dnsKqhuuoTZP1D9okY2yTXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\UI_Design\\UI_Design\\UI_Design.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\communitytoolkit.mvvm\\8.1.0\\communitytoolkit.mvvm.8.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

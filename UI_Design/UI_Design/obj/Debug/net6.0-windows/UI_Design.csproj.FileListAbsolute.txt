@@ -1,0 +1,108 @@
+C:\Users\YASODHA\Desktop\UI_Design\UI_Design\bin\Debug\net6.0-windows\UI_Design.exe
+C:\Users\YASODHA\Desktop\UI_Design\UI_Design\bin\Debug\net6.0-windows\UI_Design.deps.json
+C:\Users\YASODHA\Desktop\UI_Design\UI_Design\bin\Debug\net6.0-windows\UI_Design.runtimeconfig.json
+C:\Users\YASODHA\Desktop\UI_Design\UI_Design\bin\Debug\net6.0-windows\UI_Design.dll
+C:\Users\YASODHA\Desktop\UI_Design\UI_Design\bin\Debug\net6.0-windows\UI_Design.pdb
+C:\Users\YASODHA\Desktop\UI_Design\UI_Design\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\YASODHA\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\UI_Design.csproj.AssemblyReference.cache
+C:\Users\YASODHA\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\YASODHA\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\YASODHA\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\UI_Design_MarkupCompile.cache
+C:\Users\YASODHA\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\UI_Design_MarkupCompile.lref
+C:\Users\YASODHA\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\YASODHA\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\UI_Design.g.resources
+C:\Users\YASODHA\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\UI_Design.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YASODHA\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\UI_Design.AssemblyInfoInputs.cache
+C:\Users\YASODHA\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\UI_Design.AssemblyInfo.cs
+C:\Users\YASODHA\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\UI_Design.csproj.CoreCompileInputs.cache
+C:\Users\YASODHA\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\UI_Design.csproj.CopyComplete
+C:\Users\YASODHA\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\UI_Design.dll
+C:\Users\YASODHA\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\refint\UI_Design.dll
+C:\Users\YASODHA\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\UI_Design.pdb
+C:\Users\YASODHA\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\UI_Design.genruntimeconfig.cache
+C:\Users\YASODHA\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\ref\UI_Design.dll
+C:\Users\YASODHA\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\App.baml
+C:\Users\YASODHA\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\YASODHA\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\Add_StudentWindow.g.cs
+C:\Users\YASODHA\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\Add_StudentWindow.baml
+C:\Users\ASUS\Desktop\Desktop\UI_Design\UI_Design\bin\Debug\net6.0-windows\UI_Design.exe
+C:\Users\ASUS\Desktop\Desktop\UI_Design\UI_Design\bin\Debug\net6.0-windows\UI_Design.deps.json
+C:\Users\ASUS\Desktop\Desktop\UI_Design\UI_Design\bin\Debug\net6.0-windows\UI_Design.runtimeconfig.json
+C:\Users\ASUS\Desktop\Desktop\UI_Design\UI_Design\bin\Debug\net6.0-windows\UI_Design.dll
+C:\Users\ASUS\Desktop\Desktop\UI_Design\UI_Design\bin\Debug\net6.0-windows\UI_Design.pdb
+C:\Users\ASUS\Desktop\Desktop\UI_Design\UI_Design\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\ASUS\Desktop\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\UI_Design.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\Add_StudentWindow.g.cs
+C:\Users\ASUS\Desktop\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ASUS\Desktop\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ASUS\Desktop\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ASUS\Desktop\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\UI_Design_MarkupCompile.cache
+C:\Users\ASUS\Desktop\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\UI_Design_MarkupCompile.lref
+C:\Users\ASUS\Desktop\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\App.baml
+C:\Users\ASUS\Desktop\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\Add_StudentWindow.baml
+C:\Users\ASUS\Desktop\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ASUS\Desktop\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\UI_Design.g.resources
+C:\Users\ASUS\Desktop\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\UI_Design.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\UI_Design.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\UI_Design.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\UI_Design.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\UI_Design.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\UI_Design.dll
+C:\Users\ASUS\Desktop\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\refint\UI_Design.dll
+C:\Users\ASUS\Desktop\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\UI_Design.pdb
+C:\Users\ASUS\Desktop\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\UI_Design.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\ref\UI_Design.dll
+F:\University\3rd Semester\GUI programming\UI_Design\UI_Design\bin\Debug\net6.0-windows\UI_Design.exe
+F:\University\3rd Semester\GUI programming\UI_Design\UI_Design\bin\Debug\net6.0-windows\UI_Design.deps.json
+F:\University\3rd Semester\GUI programming\UI_Design\UI_Design\bin\Debug\net6.0-windows\UI_Design.runtimeconfig.json
+F:\University\3rd Semester\GUI programming\UI_Design\UI_Design\bin\Debug\net6.0-windows\UI_Design.dll
+F:\University\3rd Semester\GUI programming\UI_Design\UI_Design\bin\Debug\net6.0-windows\UI_Design.pdb
+F:\University\3rd Semester\GUI programming\UI_Design\UI_Design\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+F:\University\3rd Semester\GUI programming\UI_Design\UI_Design\obj\Debug\net6.0-windows\UI_Design.csproj.AssemblyReference.cache
+F:\University\3rd Semester\GUI programming\UI_Design\UI_Design\obj\Debug\net6.0-windows\Add_StudentWindow.g.cs
+F:\University\3rd Semester\GUI programming\UI_Design\UI_Design\obj\Debug\net6.0-windows\MainWindow.g.cs
+F:\University\3rd Semester\GUI programming\UI_Design\UI_Design\obj\Debug\net6.0-windows\App.g.cs
+F:\University\3rd Semester\GUI programming\UI_Design\UI_Design\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+F:\University\3rd Semester\GUI programming\UI_Design\UI_Design\obj\Debug\net6.0-windows\UI_Design_MarkupCompile.cache
+F:\University\3rd Semester\GUI programming\UI_Design\UI_Design\obj\Debug\net6.0-windows\UI_Design_MarkupCompile.lref
+F:\University\3rd Semester\GUI programming\UI_Design\UI_Design\obj\Debug\net6.0-windows\App.baml
+F:\University\3rd Semester\GUI programming\UI_Design\UI_Design\obj\Debug\net6.0-windows\Add_StudentWindow.baml
+F:\University\3rd Semester\GUI programming\UI_Design\UI_Design\obj\Debug\net6.0-windows\MainWindow.baml
+F:\University\3rd Semester\GUI programming\UI_Design\UI_Design\obj\Debug\net6.0-windows\UI_Design.g.resources
+F:\University\3rd Semester\GUI programming\UI_Design\UI_Design\obj\Debug\net6.0-windows\UI_Design.GeneratedMSBuildEditorConfig.editorconfig
+F:\University\3rd Semester\GUI programming\UI_Design\UI_Design\obj\Debug\net6.0-windows\UI_Design.AssemblyInfoInputs.cache
+F:\University\3rd Semester\GUI programming\UI_Design\UI_Design\obj\Debug\net6.0-windows\UI_Design.AssemblyInfo.cs
+F:\University\3rd Semester\GUI programming\UI_Design\UI_Design\obj\Debug\net6.0-windows\UI_Design.csproj.CoreCompileInputs.cache
+F:\University\3rd Semester\GUI programming\UI_Design\UI_Design\obj\Debug\net6.0-windows\UI_Design.csproj.CopyComplete
+F:\University\3rd Semester\GUI programming\UI_Design\UI_Design\obj\Debug\net6.0-windows\UI_Design.dll
+F:\University\3rd Semester\GUI programming\UI_Design\UI_Design\obj\Debug\net6.0-windows\refint\UI_Design.dll
+F:\University\3rd Semester\GUI programming\UI_Design\UI_Design\obj\Debug\net6.0-windows\UI_Design.pdb
+F:\University\3rd Semester\GUI programming\UI_Design\UI_Design\obj\Debug\net6.0-windows\UI_Design.genruntimeconfig.cache
+F:\University\3rd Semester\GUI programming\UI_Design\UI_Design\obj\Debug\net6.0-windows\ref\UI_Design.dll
+C:\Users\ASUS\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\UI_Design.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\Add_StudentWindow.g.cs
+C:\Users\ASUS\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ASUS\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ASUS\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ASUS\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\UI_Design_MarkupCompile.cache
+C:\Users\ASUS\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\UI_Design_MarkupCompile.lref
+C:\Users\ASUS\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\UI_Design.dll
+C:\Users\ASUS\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\refint\UI_Design.dll
+C:\Users\ASUS\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\UI_Design.pdb
+C:\Users\ASUS\Desktop\UI_Design\UI_Design\bin\Debug\net6.0-windows\UI_Design.exe
+C:\Users\ASUS\Desktop\UI_Design\UI_Design\bin\Debug\net6.0-windows\UI_Design.deps.json
+C:\Users\ASUS\Desktop\UI_Design\UI_Design\bin\Debug\net6.0-windows\UI_Design.runtimeconfig.json
+C:\Users\ASUS\Desktop\UI_Design\UI_Design\bin\Debug\net6.0-windows\UI_Design.dll
+C:\Users\ASUS\Desktop\UI_Design\UI_Design\bin\Debug\net6.0-windows\UI_Design.pdb
+C:\Users\ASUS\Desktop\UI_Design\UI_Design\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\ASUS\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\App.baml
+C:\Users\ASUS\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\Add_StudentWindow.baml
+C:\Users\ASUS\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ASUS\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\UI_Design.g.resources
+C:\Users\ASUS\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\UI_Design.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\UI_Design.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\UI_Design.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\UI_Design.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\UI_Design.csproj.CopyComplete
+C:\Users\ASUS\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\UI_Design.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\UI_Design\UI_Design\obj\Debug\net6.0-windows\ref\UI_Design.dll
